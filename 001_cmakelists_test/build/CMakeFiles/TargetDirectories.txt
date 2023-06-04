@@ -1,0 +1,3 @@
+/home/ebx/parallel101/001_cmakelists_test/build/CMakeFiles/001_CMAKELISTS_TEST.dir
+/home/ebx/parallel101/001_cmakelists_test/build/CMakeFiles/edit_cache.dir
+/home/ebx/parallel101/001_cmakelists_test/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/000_CMAKE_TEST.dir/000_cmake_test.cpp.o -o 000_CMAKE_TEST 
